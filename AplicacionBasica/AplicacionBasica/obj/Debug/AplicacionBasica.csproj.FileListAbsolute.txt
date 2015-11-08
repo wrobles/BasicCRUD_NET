@@ -1,0 +1,5 @@
+C:\proyectos\AplicacionBasica\AplicacionBasica\bin\AplicacionBasica.dll
+C:\proyectos\AplicacionBasica\AplicacionBasica\bin\AplicacionBasica.pdb
+C:\proyectos\AplicacionBasica\AplicacionBasica\obj\Debug\AplicacionBasica.csprojResolveAssemblyReference.cache
+C:\proyectos\AplicacionBasica\AplicacionBasica\obj\Debug\AplicacionBasica.dll
+C:\proyectos\AplicacionBasica\AplicacionBasica\obj\Debug\AplicacionBasica.pdb
